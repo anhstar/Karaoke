@@ -57,7 +57,7 @@
           ]
         },
         {
-          "id": 2,
+          "id": 3,
           "name": "Theo ca si",
           "playlist": [
             {
@@ -65,27 +65,13 @@
               "id": "playlist/PLsY5yje8wya2p_7xnOx2_NqfQUTYQEgJ9/"
             },
             {
-              "name": "Song ca",
-              "id": "playlist/PLsY5yje8wya1uEzzpJQD0v1jNvhT54Gn7/"
-            }
-          ],
-          "channels": [
-            {
-              "name": "SVietnamchannel",
-              "id": "channel/UCShWlgS-cibxoy_sUvg1I6g/"
-            },
-            {
-              "name": "Văn hóa Việt Nam",
-              "id": "user/vanhoaviettv/"
-            },
-            {
-              "name": "Khám Phá Việt Nam",
-              "id": "user/KhamPhaVietNamVTV/"
+              "name": "Minh Tuyet",
+              "id": "playlist/PLsY5yje8wya0gMgd09m7m5gWRndwPJGfB/"
             }
           ]
         },
         {
-          "id": 3,
+          "id": 4,
           "name": "Song Ca",
           "playlist": [
             {

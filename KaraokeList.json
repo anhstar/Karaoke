@@ -1,0 +1,308 @@
+{
+  "catalogues": [
+    {
+      "id": 0,
+      "name": "Karaoke Vietnam",
+      "categorie": [
+        {
+          "id": 0,
+          "name": "Nhac Tre",
+          "playlist": [
+            {
+              "name": "Nhac Tre",
+              "id": "playlist/PLsY5yje8wya0EhfT2JIsDpCNUGcej7FTQ/"
+            },
+            {
+              "name": "Karaoke Beat HD Nhạc Trẻ",
+              "id": "playlist/PLsY5yje8wya0EhfT2JIsDpCNUGcej7FTQ/"
+            },
+            {
+              "name": "Nhac Tre Nữ",
+              "id": "playlist/PLsY5yje8wya2v8axbrYMiLMZZG8fCKeDX/"
+            },
+            {
+              "name": "Nhac Tre Nam",
+              "id": "playlist/PLsY5yje8wya2zdA71dRw5-Ln1oNuWRSHt/"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Nhac Vang"
+        },
+        {
+          "id": 2,
+          "name": "Nhac Que Huong",
+          "playlist": [
+            {
+              "name": "Karaoke Vietnam",
+              "id": "playlist/PLsY5yje8wya1IbQoH0GuMmIBLEru1-paY/"
+            },
+            {
+              "name": "Nhac Que Huong",
+              "id": "playlist/PLsY5yje8wya06Q3p-tyoQSLJ-kuKEWbHd/"
+            },
+            {
+              "name": "Quang Lê",
+              "id": "playlist/PLsY5yje8wya0kTppcxmeEXZyLFW83xxd5/"
+            },
+            {
+              "name": "Bài Hát Trữ Tình",
+              "id": "playlist/PLsY5yje8wya0cOLEFAsD3RRE39hbOnthc/"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Song Ca",
+          "playlist": [
+            {
+              "name": "Song ca",
+              "id": "playlist/PLsY5yje8wya1uEzzpJQD0v1jNvhT54Gn7/"
+            }
+          ]
+        }
+      ],
+      "playlist": [
+        {
+          "name": "Nhac Tre",
+          "id": "playlist/PLsY5yje8wya0EhfT2JIsDpCNUGcej7FTQ/"
+        },
+        {
+          "name": "Tre em",
+          "id": "playlist/PLsY5yje8wya3wxGVeUcSDNKfXaDSdIHJJ/"
+        }
+      ],
+      "channels": [
+        {
+          "name": " ViCi Karaoke Online ",
+          "id": "user/vcbuikara1993/"
+        },
+        {
+          "name": " ViCi Karaoke Online 1 ",
+          "id": "channel/UCL1DMUNMm6_G6LPblb9j3uQ/"
+        },
+        {
+          "name": " ViCi Karaoke Online 2 ",
+          "id": "channel/UCQEq7nzBn0CH-7De1xqjd6w/"
+        },
+        {
+          "name": "Kara Việt Nam",
+          "id": "user/TruTinhKaraOke/"
+        },
+        {
+          "name": "Kara Việt Nam",
+          "id": "user/karaokeNguyenThanh/"
+        },
+        {
+          "name": "CaoCuongPro - Karaoke Nhạc Vàng 3",
+          "id": "user/CaoCuongKaraoke4/"
+        },
+        {
+          "name": "CaoCuongGroup",
+          "id": "channel/UCWTLgxMFrmjm-cA-cb0zilw/"
+        },
+        {
+          "name": " CaoCuongPro - Karaoke Truyền Thống 2",
+          "id": "channel/UCYmaVf2WN_TFr5CqLWBO9OQ/"
+        },
+        {
+          "name": " CaoCuongPro - Karaoke Nhạc Trẻ 16",
+          "id": "channel/UCPGd1T_zSgyo-8SCEGXg-pA/"
+        },
+        {
+          "name": "  Karaoke Phạm Văn Vàng",
+          "id": "user/karaokephamvanvang/"
+        },
+        {
+          "name": "[EN] TheKARAOKEChannel",
+          "id": "user/TheKARAOKEChannel/"
+        },
+        {
+          "name": "[EN] The KARAOKE Channel International",
+          "id": "user/KARAOKEChannelIntl/"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Karaoke English",
+      "channels": [
+        {
+          "name": "VTV Showbiz",
+          "id": "user/VTVShowbiz/"
+        },
+        {
+          "name": "HTVOnline Entertainment",
+          "id": "user/htvonlinetube/"
+        },
+        {
+          "name": " Bố ơi! Mình đi đâu thế",
+          "id": "user/vtvbooiminhdidauthe/"
+        },
+        {
+          "name": "Vietnam's Got Talent",
+          "id": "channel/UCdouf4Nk-opU7-J1VMrRHsw/"
+        },
+        {
+          "name": "5sonlinevietnam",
+          "id": "user/5sonlinevietnam/"
+        },
+        {
+          "name": "SASUKE VIỆT NAM",
+          "id": "channel/UCCONQdW98HmR8hipzpbZQxQ/"
+        },
+        {
+          "name": "NGƯỜI ĐI XUYÊN TƯỜNG",
+          "id": "channel/UCy-zQaQRwXrJLVSCOIrB5GQ/"
+        },
+        {
+          "name": "Giong Hat Viet Nhi",
+          "id": "user/btcgionghatvietnhi/"
+        },
+        {
+          "name": " FAP TV",
+          "id": "channel/UC0jDoh3tVXCaqJ6oTve8ebA/"
+        },
+        {
+          "name": "Ghiền Mì Gõ",
+          "id": "channel/UCq6ApdQI0roaprMAY1gZTgw/"
+        },
+        {
+          "name": "Mốc Meo",
+          "id": "channel/UCW3VdT6bYS0yokOTgMe5fjg/"
+        },
+        {
+          "name": "Nghịch",
+          "id": "channel/UCUf2nRja5NATZ-tTPjAmpzg/"
+        },
+        {
+          "name": "TIN VIỆT",
+          "id": "channel/UCG_2mko0fFPhZqA-6i3XvfA/"
+        },
+        {
+          "name": "Tốp 5 Lạ Kỳ",
+          "id": "channel/UCf3bW2-ucrqjK5hOrlDogGQ/"
+        },
+        {
+          "name": "Cà Dễ Dãi Official",
+          "id": "user/CaDeDaiTeam/"
+        },
+        {
+          "name": "BUM TV",
+          "id": "channel/UCfQe3Mk7gJWehwMbOJa9Brw/"
+        },
+        {
+          "name": "Kem Xôi TV",
+          "id": "channel/UCPu7cX9LrVOlCDK905T9tVw/"
+        },
+        {
+          "name": "Hope Tv",
+          "id": "user/kolako94/"
+        },
+        {
+          "name": " BB&BG Entertainment",
+          "id": "user/bbtran21211/"
+        },
+        {
+          "name": "YEAH1TV",
+          "id": "user/2idolshow/"
+        },
+        {
+          "name": "Buoi TV",
+          "id": "channel/UC2KSpZnJqOmPJOu7St2e2hQ/"
+        },
+        {
+          "name": "POPSTVVIETNAM",
+          "id": "user/POPSTVVIETNAM/"
+        },
+        {
+          "name": "DAMtivi",
+          "id": "user/DAMtivi/"
+        },
+        {
+          "name": " DONG GIAO Official",
+          "id": "user/DongGiaoOfficial/"
+        },
+        {
+          "name": "Just For Laughs Gags",
+          "id": "user/JustForLaughsTV/"
+        },
+        {
+          "name": "Chuyện lạ Việt Nam",
+          "id": "user/chuyenlavietnam24h/"
+        },
+        {
+          "name": " CGV Cinemas Vietnam",
+          "id": "channel/UCu9QjEfQFbO4-x5toCFACrA/"
+        },
+        {
+          "name": "Truyen Hinh Vinh Long",
+          "id": "user/VinhLongTV/"
+        },
+        {
+          "name": "Zing TV Official",
+          "id": "channel/UCKaO3GcTYEZbaSuPXYMvnCQ/"
+        },
+        {
+          "name": "ĐÔNG TÂY PROMOTION OFFICIAL",
+          "id": "channel/UCFMEYTv6N64hIL9FlQ_hxBw/"
+        },
+        {
+          "name": "HaiNhatBan.Com Kênh 3",
+          "id": "channel/UCEN7UVtaqR-sNUNkRXj1WFA/"
+        },
+        {
+          "name": "HaiNhatBan.Com Kênh 5",
+          "id": "channel/UCTQE-uQHe8ZDK4aWiGGLLXA/"
+        },
+        {
+          "name": "GalaCuoiOfficial (nhatbun91)",
+          "id": "channel/UCfkwfimCSZYq484lEUA2JBA/"
+        },
+        {
+          "name": "Thang Long Audio Visual",
+          "id": "channel/UCc4DFew7HPlONqWatBM_w0A/videos/"
+        },
+        {
+          "name": "Hot Clips",
+          "id": "user/clipnoibat/"
+        },
+        {
+          "name": "Xã Hội Việt",
+          "id": "channel/UC7b6F_k6YnhBTEMA4z1Mltg/"
+        },
+        {
+          "name": "ZingMp3 Official",
+          "id": "channel/UCyAojDE5b7HoWX6rzYUn5Mg/"
+        },
+        {
+          "name": " Mr bean ",
+          "id": "playlist/PL0EBA141699D29948/"
+        },
+        {
+          "name": "lamntn.com - làm như thế nào",
+          "id": "user/lamntn/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Karaoke Français",
+      "channels": [
+        {
+          "name": "SVietnamchannel",
+          "id": "channel/UCShWlgS-cibxoy_sUvg1I6g/"
+        },
+        {
+          "name": "Văn hóa Việt Nam",
+          "id": "user/vanhoaviettv/"
+        },
+        {
+          "name": "Khám Phá Việt Nam",
+          "id": "user/KhamPhaVietNamVTV/"
+        }
+      ]
+    }
+  ]
+}

@@ -309,6 +309,16 @@
     {
       "id": 2,
       "name": "Karaoke Français",
+      "playlist": [
+        {
+          "name": "Francais1",
+          "id": "playlist/PLsY5yje8wya3RoSrALkIe3Gp-sWHSzwY1/"
+        },
+        {
+          "name": "Tre em",
+          "id": "playlist/PLsY5yje8wya3wxGVeUcSDNKfXaDSdIHJJ/"
+        }
+      ],
       "channels": [
         {
           "name": "SVietnamchannel",

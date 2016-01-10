@@ -64,16 +64,29 @@
           "name": "Theo ca si",
           "icon": "Casi.png",
           "playlist": [
-            {
-              "name": "My Tam",
-              "id": "playlist/PLsY5yje8wya2p_7xnOx2_NqfQUTYQEgJ9/"
+			{
+              "name": "Cẩm Ly",
+			  "icon": "http://avatar.nct.nixcdn.com/playlist/2014/06/10/d/a/b/4/1402381565654_500.jpg",
+              "id": "playlist/PLsY5yje8wya0N3X8VAbSP10BHOWbjKn_x/"
             },
-            {
+			{
+              "name": "Lương Bích Hữu",
+			  "icon": "http://img.saobiz.net/d/2015/07/nhung-hinh-anh-dep-cua-ca-si-luong-bich-huu-1.jpg",
+              "id": "playlist/PLsY5yje8wya3hbMDttB9pffg4UCGJ11CX/"
+            },
+			{
               "name": "Minh Tuyet",
+			  "icon": "http://image.mp3.zdn.vn/covers/c/2/c2c6316600393e9cecd34c11a3e468d7_1395655537.jpg",
               "id": "playlist/PLsY5yje8wya0gMgd09m7m5gWRndwPJGfB/"
             },
             {
+              "name": "My Tam",
+			  "icon": "http://media.hotbirthdays.com/upload/2015/05/19/my-tam.jpeg",
+              "id": "playlist/PLsY5yje8wya2p_7xnOx2_NqfQUTYQEgJ9/"
+            },
+            {
               "name": "Hồ Quang Hiếu",
+			  "icon": "http://avatar.nct.nixcdn.com/playlist/2014/06/10/d/a/b/4/1402373904964_500.jpg",
               "id": "playlist/PLsY5yje8wya189KzXbAMWxu5EfG3cfRk2/"
             }
           ]

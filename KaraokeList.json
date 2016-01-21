@@ -188,7 +188,7 @@
     },
     {
       "id": 1,
-      "name": "Karaoke English",
+      "name": "Giai Tri",
       "channels": [
         {
           "name": "VTV Showbiz",
@@ -365,6 +365,34 @@
         {
           "name": "SVietnamchannel",
           "id": "channel/UCShWlgS-cibxoy_sUvg1I6g/"
+        },
+        {
+          "name": "Văn hóa Việt Nam",
+          "id": "user/vanhoaviettv/"
+        },
+        {
+          "name": "Khám Phá Việt Nam",
+          "id": "user/KhamPhaVietNamVTV/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hài Tết",
+      "playlist": [
+        {
+          "name": "Francais1",
+          "id": "playlist/PLsY5yje8wya3RoSrALkIe3Gp-sWHSzwY1/"
+        },
+        {
+          "name": "Noel",
+          "id": "playlist/PLzXLzMOee5SkEkunJ9o115dFyv-E4FxTW/"
+        }
+      ],
+      "channels": [
+        {
+          "name": "Thang Long Audio Visual",
+          "id": "channel/UCc4DFew7HPlONqWatBM_w0A/"
         },
         {
           "name": "Văn hóa Việt Nam",

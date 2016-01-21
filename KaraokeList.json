@@ -59,8 +59,19 @@
             }
           ]
         },
-        {
+		{
           "id": 3,
+          "name": "Nhac Xuan",
+          "icon": "http://image.mp3.zdn.vn/covers/e/5/e534824a3ad1e87921b0aba2ac9e609e_1451969214.jpg",
+          "playlist": [
+            {
+              "name": "Hat Mung Xuan",
+              "id": "playlist/PLsY5yje8wya0u1WFt1APrEQu6MejVIud5/"
+            }
+          ]
+        },
+        {
+          "id": 4,
           "name": "Theo ca si",
           "icon": "Casi.png",
           "playlist": [
@@ -70,14 +81,19 @@
               "id": "playlist/PLsY5yje8wya0N3X8VAbSP10BHOWbjKn_x/"
             },
 			{
-              "name": "Lương Bích Hữu",
-			  "icon": "http://img.saobiz.net/d/2015/07/nhung-hinh-anh-dep-cua-ca-si-luong-bich-huu-1.jpg",
-              "id": "playlist/PLsY5yje8wya3hbMDttB9pffg4UCGJ11CX/"
+              "name": "Khởi My",
+			  "icon": "http://static.matngu12chomsao.com/data/upload/news/images/2015/09/tuan-03/hinh-3-1442520492.jpg",
+              "id": "playlist/PLsY5yje8wya10-zsuKE8_oJMZH78Li_Z9/"
             },
 			{
               "name": "Minh Tuyet",
 			  "icon": "http://image.mp3.zdn.vn/covers/c/2/c2c6316600393e9cecd34c11a3e468d7_1395655537.jpg",
               "id": "playlist/PLsY5yje8wya0gMgd09m7m5gWRndwPJGfB/"
+            },
+			{
+              "name": "Lương Bích Hữu",
+			  "icon": "http://img.saobiz.net/d/2015/07/nhung-hinh-anh-dep-cua-ca-si-luong-bich-huu-1.jpg",
+              "id": "playlist/PLsY5yje8wya3hbMDttB9pffg4UCGJ11CX/"
             },
             {
               "name": "My Tam",
@@ -98,7 +114,7 @@
           ]
         },
         {
-          "id": 4,
+          "id": 5,
           "name": "Song Ca",
           "icon": "songca.png",
           "playlist": [
